@@ -1,0 +1,4 @@
+name: hello-world
+summary: Simple hello world environment
+description: Minimal Azure Deployment Environments example
+templatePath: main.bicep
